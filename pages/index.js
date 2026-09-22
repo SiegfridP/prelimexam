@@ -13,34 +13,7 @@ export default function Home() {
           10 Things That Require Zero Talent
         </p> 
         <p> 
-          • Being On Time
-        </p>
-        <p> 
-          • Making An Effort
-        </p>
-        <p> 
-          • Being High Energy
-        </p>
-        <p> 
-          • Having A Positive Attitude
-        </p>
-        <p> 
-          • Being Passionate
-        </p>
-        <p> 
-          • Using Good Body Language
-        </p>
-        <p> 
-          • Being Coachable
-        </p>
-        <p> 
-          • Doing A Little Extra
-        </p>
-        <p> 
-          • Being Prepared
-        </p>
-        <p> 
-          • Having A Strong Work Ethic
+          • Being On Time<br></br>• Making An Effort<br></br>• Being High Energy<br></br>• Having A Positive Attitude<br></br>• Being Passionate<br></br>• Using Good Body Language<br></br>• Being Coachable<br></br>• Doing A Little Extra<br></br>• Being Prepared<br></br>• Having A Strong Work Ethic
         </p>
         
         
